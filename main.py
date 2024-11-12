@@ -55,8 +55,10 @@ def remove_bg(image_path):
 
 
 
+
 t1 = time.time()
-output = remove_bg('image.jpg')
-output.save('output_img2.png')
+output = remove_bg('img/input_image.jpg')
+output.save('img/output_image.png')
 print('Time takes to remove background (seconds): ', time.time() - t1)
+
 
