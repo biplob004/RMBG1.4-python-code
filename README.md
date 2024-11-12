@@ -1,5 +1,11 @@
-# RMBG1.4-python-code
-RMBG v1.4 is the latest state-of-the-art model for photo background removal, known for its precision and accuracy. Easily remove backgrounds from images with the following code snippet, which provides consistent, professional results suitable for various applications.
+# RMBG v1.4 - High-Accuracy Background Removal Model
+
+**RMBG v1.4** is a state-of-the-art background removal model developed by **BRIA AI**. Designed to precisely separate foreground from background across a variety of image types and categories, RMBG v1.4 has been rigorously trained on over 12,000 high-quality, manually labeled images, making it exceptionally effective for applications in **e-commerce**, **gaming**, **advertising**, and more.
+
+### Key Features
+- **High Accuracy**: Utilizes a saliency segmentation architecture, achieving superior accuracy compared to other available models.
+- **Versatile Applications**: Suitable for diverse use cases, including content creation at scale, with a focus on content safety and bias mitigation.
+- **Easy Integration**: Includes Python code for seamless integration, allowing developers to implement background removal in their projects effortlessly.
 
 
 ## Image Comparison: Input vs. Output (Background Removed)
@@ -40,4 +46,13 @@ To utilize this code for background removal, follow these steps:
    ```
 
 The output image, with the background removed, will be saved at the location you specified.
+
+
+### License Information
+RMBG v1.4 is available under a **non-commercial license**. You can use it for **personal projects** and **educational purposes**. For any **commercial use**, please obtain a separate agreement with **BRIA AI**. Ensure compliance with licensing requirements when utilizing or modifying the code in this repository.
+
+### Contribute
+This repository aims to make RMBG v1.4 accessible to developers while ensuring adherence to licensing terms. Contributions are welcome!
+
+**Explore the power of RMBG v1.4 in your applications today!**
 
