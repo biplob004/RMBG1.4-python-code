@@ -21,6 +21,7 @@
   </tr>
 </table>
 
+---
 
 ### How to Use
 
@@ -47,12 +48,12 @@ To utilize this code for background removal, follow these steps:
 
 The output image, with the background removed, will be saved at the location you specified.
 
+---
 
 ### License Information
 RMBG v1.4 is available under a **non-commercial license**. You can use it for **personal projects** and **educational purposes**. For any **commercial use**, please obtain a separate agreement with **BRIA AI**. Ensure compliance with licensing requirements when utilizing or modifying the code in this repository.
 
-### Contribute
-This repository aims to make RMBG v1.4 accessible to developers while ensuring adherence to licensing terms. Contributions are welcome!
+
 
 **Explore the power of RMBG v1.4 in your applications today!**
 
